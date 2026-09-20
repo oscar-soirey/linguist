@@ -9660,3 +9660,13 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+Jaguar:
+  type: programming
+  color: "#5EC37B"
+  aliases:
+    - jaguar
+  extensions:
+    - ".ja"
+    - ".jah"
+  tm_scope: source.jaguar
+  ace_mode: text
